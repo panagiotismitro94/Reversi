@@ -129,7 +129,5 @@ public class rev {
 			}
 		}
 		return;
-		//data d=new data(t, g, en, e);
-		//return d;
 	}
 }

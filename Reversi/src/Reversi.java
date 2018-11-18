@@ -1,4 +1,4 @@
-import java.io.IOException;
+import java.io.IOException;//Παναγιώτης Μητρόπουλος/Panagiotis Mitropoulos 3130133
 public class Reversi {
 	public static void main(String[] args) throws IOException {
 		char player, pc;
